@@ -1,0 +1,104 @@
+body {
+	font-family: Georgia;
+	background-color: #a493db;
+	color: #f8f7fa;
+}
+
+h1 {
+	text-align: center;
+}
+
+h4 {
+	margin-left: 50px;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+li {
+	width: fit-content;
+	margin-left: auto;
+	margin-right:auto;
+	font-size: 20px;
+	margin-bottom: 6px;
+}
+
+p {
+	font-size: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: purple;
+	text-decoration: none;
+}
+
+.homepage-links {
+	text-align: center;
+	font-size: 28px;
+}
+
+.page-list {
+	float: left;
+}
+
+.portrait-img {
+	margin: auto;
+	width: 200px;
+	display: block;
+}
+.capitol-img {
+	margin: auto;
+	width: 250px;
+	display: block;
+	transform: rotate (90deg);
+	clear: both;
+}
+.capitolo-img {
+	margin: auto;
+	width: 250px;
+	display: block;
+	clear: both;
+}
+.nav {
+	float: left;
+	list-style-type: none;
+	padding: 15px;
+	font-size: 18px;
+}
+.page.title {
+	clear: both;
+}
+dl {
+	width: fit-content;
+	margin-left: auto;
+	margin-right:auto;
+	font-size: 20px;
+	margin-bottom: 6px;
+}
+dd {
+	width: fit-content;
+	margin-left: auto;
+	margin-right:auto;
+	font-size: 20px;
+	margin-bottom: 6px;
+}
+dt {
+	width: fit-content;
+	margin-left: auto;
+	margin-right:auto;
+	font-size: 30px;
+	margin-bottom: 6px;
+}
